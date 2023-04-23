@@ -1,0 +1,15 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "Our first express server",
+  "main": "firstServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/TayloPortfolioWebsites/expressServer.git)"
+  },
+  "author": "Tiffany Taylo",
+  "license": "ISC"
+}
