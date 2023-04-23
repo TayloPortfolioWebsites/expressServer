@@ -11,5 +11,8 @@
     "url": "(https://github.com/TayloPortfolioWebsites/expressServer.git)"
   },
   "author": "Tiffany Taylo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
